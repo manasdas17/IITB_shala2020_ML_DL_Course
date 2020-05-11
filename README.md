@@ -1,2 +1,4 @@
-# IITB_shala2020_ML_DL_Course
-IITB DL ML Course 2020 druring Covid-19
+# shala2020.github.io
+
+HTML and CSS files for developing an educational website to deliver a course on **Data Science**, **Machine Learning**, and **Deep Learning**. This website can be viewed on 
+https://shala2020.github.io. 
